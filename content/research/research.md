@@ -6,7 +6,8 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Research & Projects"
-subtitle = "山重水复疑无路，柳暗花明又一村 (宋.陆游) After endless mountains and rivers that leave doubt whether there is a path out, suddenly one encounters the shade of a willow, bright flowers and a lovely village (translated by Hillary Clinton, 2010)"
+subtitle = "沉舟侧畔千帆过，病树前头万木春 (唐.刘禹锡) Thousands of sails pass by the sinking boat,
+And myriad trees bloom in front of the withered tree in spring."
 
 [content]
   # Page type to display. E.g. project.
