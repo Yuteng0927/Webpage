@@ -6,8 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Research & Projects"
-subtitle = "沉舟侧畔千帆过，病树前头万木春 (唐.刘禹锡) Thousands of sails pass by the sinking boat,
-And myriad trees bloom in front of the withered tree in spring."
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
