@@ -10,9 +10,6 @@ main:
   - name: "About"
     url: '/about/'
     weight: 20
-  - name: News
-    url: '/news/'
-    weight: 30
   - name: Research & Projects
     url: '/research/'
     weight: 40
@@ -22,9 +19,6 @@ main:
   - name: Talks
     url: 'talk/'
     weight: 60
-  - name: Resources
-    url: '/resource/'
-    weight: 70
   - name: Contact
     url: '#contact'
     weight: 80
