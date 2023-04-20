@@ -1,6 +1,6 @@
 ---
 title: Subcellular antioxidant defense via redox-reactive fluorescent sensor
-summary: we reported a new method using combined approaches of organelle-specific redox sensor Grx1-roGFP2 and non-targeted proteomics to investigate the real-time Cu-dependent antioxidant defenses of mitochondria and cytosol in live HEK293 cells.
+summary: We reported a new method using combined approaches of organelle-specific redox sensor Grx1-roGFP2 and non-targeted proteomics to investigate the real-time Cu-dependent antioxidant defenses of mitochondria and cytosol in live HEK293 cells.
 tags:
 - single molecule
 date: "2020-06-01T00:00:00Z"

@@ -1,6 +1,6 @@
 ---
 title: Single-molecule interaction simulation  
-summary: we provide a noise-free single-molecule interaction simulation (SMIS) tool to quantify the interaction kinetic rate constants without using the traditional single-molecule analytical solution approach.
+summary: We provide a noise-free single-molecule interaction simulation (SMIS) tool to quantify the interaction kinetic rate constants without using the traditional single-molecule analytical solution approach.
 tags:
 - single molecule
 date: "2019-06-01T00:00:00Z"

@@ -1,6 +1,6 @@
 ---
 title: Light sheet imaging
-summary: Imaging platform optimization via light sheet imaging
+summary: Imaging platform optimization via light sheet setup
 tags:
 - single molecule
 date: "2019-06-01T00:00:00Z"

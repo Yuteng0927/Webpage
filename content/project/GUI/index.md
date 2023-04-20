@@ -1,6 +1,6 @@
 ---
 title: GUI development for single-molecule fluorescent image processing
-summary: we created a homemade easy-to-use graphical user interface (GUI) to demonstrate the fundamental concept of smSRM, the fitting of super-resolved images, as well as the significance of key characteristics that would affect the image quality. 
+summary: We created a homemade easy-to-use graphical user interface (GUI) to demonstrate the fundamental concept of smSRM, the fitting of super-resolved images, as well as the significance of key characteristics that would affect the image quality. 
 tags:
 - biological data
 date: "2021-06-01T00:00:00Z"

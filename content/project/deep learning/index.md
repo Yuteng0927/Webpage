@@ -1,6 +1,6 @@
 ---
 title: Magnetic Maps Inclinations Prediction with Deep Learning 
-summary: The purpose of this Project is to train a CNN predictor that can predict inclinations of the magnetization of a source body in the subsurface, given a magnetic data map.
+summary: The purpose of this project is to train a CNN predictor that can predict inclinations of the magnetization of a source body in the subsurface, given a magnetic data map.
 tags:
 - coding
 date: "2023-01-01T00:00:00Z"

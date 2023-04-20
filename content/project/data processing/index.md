@@ -1,6 +1,6 @@
 ---
 title: Single-molecule data processing pipeline 
-summary: We developed a computational system designed to analyze raw data obtained from imaging techniques used in biological research, such as fluorescence microscopy.
+summary: Our lab developed a homemade computational pipeline designed to analyze raw data obtained from imaging techniques used in biological research, such as fluorescence microscopy.
 tags:
 - biological data
 date: "2018-09-01T00:00:00Z"
@@ -33,6 +33,6 @@ slides: ""
 
 
 ### Research Summary
-The first step in this process is the localization extraction of individual molecules within the image. This is accomplished by using specialized algorithms that detect the signal emitted from fluorescent markers that are attached to molecules of interest. These algorithms identify the precise location of each molecule, which can then be used to construct a high-resolution image of the sample.
-The next step is to reconstruct a three-dimensional (3D) image from the data obtained in the previous step. This requires the use of advanced computational methods to analyze the positions of individual molecules in multiple planes and to generate a 3D model of the sample.
+The first step in this process is the localization extraction of individual molecules within the image. This is accomplished by using specialized algorithms that detect the signal emitted from fluorescent markers that are attached to molecules of interest. 
+The next step is to reconstruct a 2D/3D image from the data obtained in the previous step. 
 
