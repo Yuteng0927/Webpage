@@ -88,7 +88,7 @@ a. Data processing pipeline for single-molecule image reconstruction\
 b. GUI development for single-molecule super-resolved fluorescent image processing
 
 
-Furthermore, I am proficient in programming languages such as MATLAB and Python with advanced knowledge in data classification, numerical simulation, and machine learning algorithms, which equipped me with diverse perspectives to analyze data and extract maximum value from it. I have also successfully accomplished a Data Analytics and Visualization Boot Camp from Georgia Tech this year and completed several coding projects utilizing Python.
+Furthermore, I am proficient in programming languages such as MATLAB and Python with advanced knowledge in data classification, numerical simulation, and machine learning algorithms, which equipped me with diverse perspectives to analyze data and extract maximum value from it. I have also completed several coding projects utilizing Python.
 
 #### Coding Projects:
 
