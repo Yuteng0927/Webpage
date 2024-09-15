@@ -7,7 +7,7 @@ title: About Me
 ---
 
 ### I'm
-- A PhD at the University of Houston
+- A PhD in at the University of Houston
 - A biochemist and biological data analyst enthusiast
 - A proud mother, hiker, Lego enthusiast, ...
 - Inquisitive, conscientious, cooperative, convivial, ...
